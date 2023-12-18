@@ -27,6 +27,7 @@
     "src/**/*.d.ts",
     "src/**/*.tsx",
     "src/**/*.jsx",
-    "src/**/*.vue"
+    "src/**/*.vue",
+    "src/types/.eslintrc-auto-import.json"
   ]
 }

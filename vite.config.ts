@@ -19,7 +19,7 @@ export default defineConfig({
       dts: './src/types/auto-imports.d.ts',
       eslintrc: {
         enabled: true,
-        filepath: './.eslintrc-auto-import.json',
+        filepath: './src/types/.eslintrc-auto-import.json',
         globalsPropValue: true,
       },
       resolvers: [ElementPlusResolver()],
