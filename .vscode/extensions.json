@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "Vue.vscode-typescript-vue-plugin",
+    "dbaeumer.vscode-eslint",
+    "maggie.eslint-rules-zh-plugin",
+    "usernamehw.errorlens",
+    "antfu.unocss",
+    "noxussj.element-plus",
+    "vue.volar"
+  ]
+}
